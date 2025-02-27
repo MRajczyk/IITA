@@ -1,0 +1,4 @@
+test
+linia2
+linia3
+kombinacja

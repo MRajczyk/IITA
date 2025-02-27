@@ -1,0 +1,20 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>
+            pl.dmcs
+        </groupId>
+        <artifactId>
+            parent
+        </artifactId>
+        <version>
+            1.0
+        </version>
+    </parent>
+
+    <artifactId>add</artifactId>
+    <version>
+        1.0
+    </version>
+</project>
